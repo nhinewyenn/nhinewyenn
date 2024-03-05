@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **any hackathons or cool interesting open-source project**
 
-- 💬 Ask me about **kpop :)**
+- 📫 Reach me via **nhi.y.nguyen1610@gmail.com** or [linkedin](https://www.linkedin.com/in/yennhi-nguyenn/)
 
-- 📫 How to reach me **nhi.y.nguyen1610@gmail.com** or [linkedin](https://www.linkedin.com/in/yennhi-nguyenn/)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing](https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing](https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing)
 
 - ⚡ Fun fact **my first line of code wasn't "Hello World!" :D**
 
