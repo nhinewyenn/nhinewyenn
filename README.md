@@ -11,7 +11,7 @@
 
 - 📫 Reach me via **nhi.y.nguyen1610@gmail.com** or [linkedin](https://www.linkedin.com/in/yennhi-nguyenn/)
 
-- 📄 Resume: [https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing](https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing)
+- 📄 Resume: [resume link](https://drive.google.com/file/d/1MRwHSTJnT3bzSAWc6bFMBBsH0cTDuR1e/view?usp=sharing)
 
 - ⚡ Fun fact **my first line of code wasn't "Hello World!" :D**
 
