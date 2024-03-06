@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Nhi Nguyen 👋</h1>
-<h4 align="center">A full stack developer from Melbourne, Aus 🇦🇺. I love making and designing webpages with cool UI/UX element and enjoy problem solving. You'll probably find me tinkering with typed programming languages like TypeScript and Golang as i find that it really helped to encounter less production bug 🐞. Let's code up something cool together! :) </h3>
+<h4 align="center">A full stack developer from Melbourne, Aus 🇦🇺. I love making and designing webpages with cool UI/UX element and enjoy problem solving. You'll probably find me tinkering with typed programming languages like TypeScript and Golang as i find that it really helped to encounter less production bug 🐞.</h4>
+<h4 align="center">Let's code up something cool together! :)</h4>
 
 ---
 
