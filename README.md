@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nhi Nguyen 👋</h1>
 <h5>A  developer from Australia. I love making and designing webpages with cool UI/UX element and enjoy problem solving. Currently a master student studying Cyber Security and also working on side projects regarding mobile and full stack development</h4>
-<h4>Let's code up something cool together! :)</h4>
+<h5>Let's code up something cool together! :)</h4>
 
 ---
 
