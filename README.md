@@ -14,7 +14,6 @@
 
 - 📄 Resume: [resume link](https://drive.google.com/file/d/1wzKS6eT-ZsI1xHn2w49tPR9gAuIOds7o/view)
 
-- ⚡ Fun fact **my first line of code wasn't "Hello World!" :D**
 
 ---
 
