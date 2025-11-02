@@ -12,8 +12,6 @@
 
 - 📫 Reach me via **nhi.y.nguyen1610@gmail.com** or [linkedin](https://www.linkedin.com/in/yennhi-nguyenn/)
 
-- 📄 Resume: [resume link](https://drive.google.com/file/d/1wzKS6eT-ZsI1xHn2w49tPR9gAuIOds7o/view)
-
 
 ---
 
