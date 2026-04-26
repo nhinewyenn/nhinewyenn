@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m helping NewsCord with dev work related to website and mobile app (currently in beta)
+- 🔭 I’m helping NewsCord with dev work related to website and mobile app 
 
 - 🌱 I’m currently learning **Python, Golang, React Native** as well as touching up on my algorithm skills
 
